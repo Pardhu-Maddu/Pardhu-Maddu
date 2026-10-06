@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pardhu Vicky, a passionate Python Developer and AI/ML enthusiast. I’m a fresher with a strong interest in building practical applications and solving real-world problems using technology. I have skills in Python, AI/ML, SQL, React, and TypeScript. I’m continuously improving my development and problem-solving skills by working on projects and exploring new technologies. I’m looking forward to starting my career as a software developer and contributing to innovative projects. 🚀
+Hi, I'm Pardhu Maddu, a passionate Python Developer and AI/ML enthusiast. I’m a fresher with a strong interest in building practical applications and solving real-world problems using technology. I have skills in Python, AI/ML, SQL, React, and TypeScript. I’m continuously improving my development and problem-solving skills by working on projects and exploring new technologies. I’m looking forward to starting my career as a software developer and contributing to innovative projects. 🚀
 
 
 ## 🌐 Socials:
