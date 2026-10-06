@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=EBDBB2&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Pardhu+Maddu+%F0%9F%91%8B;Python+Full-Stack+Developer;Ai+Ml+%7C+React+%7C+REST+APIs;Building+Scalable+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=A9B665&center=true&vCenter=true&width=700&height=40&lines=Clean+Code+%E2%80%A2+Solid+Architecture+%E2%80%A2+Real-World+Impact" alt="Subtitle SVG" />
+</p>
 # 💫 About Me:
 Hi, I'm Pardhu Maddu, a passionate Python Developer and AI/ML enthusiast. I’m a fresher with a strong interest in building practical applications and solving real-world problems using technology. I have skills in Python, AI/ML, SQL, React, and TypeScript. I’m continuously improving my development and problem-solving skills by working on projects and exploring new technologies. I’m looking forward to starting my career as a software developer and contributing to innovative projects. 🚀
 
